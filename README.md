@@ -12,7 +12,7 @@ Image classification GUI app using Python.
 ## Setup Instructions
 1) Clone the repository
 ```python
-$ git clone https://github.com/kasai2210/image_classification_gui.git
+$ git clone https://github.com/Gautam-Bansal/image-classification-gui
 $ cd image_classification_gui
 ```
 2) Install the dependencies
